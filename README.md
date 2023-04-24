@@ -1,1 +1,2 @@
 # odin-recipes
+I am following the odin project course and this lesson is where i make a basic website using very, very basic html. this website is going to be about recipes where i link to some different websites.
